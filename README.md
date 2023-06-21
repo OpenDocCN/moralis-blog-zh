@@ -8,7 +8,7 @@
 > 
 > I don't give a fuck about 人家说什么。他们想说什么就说什么，但是他们算什么？没有谁有权力拿他的标准衡量我。主宰是我自己，随便人家如何想，我还是我。——宋岳庭《生命是场斗争》 
 
-* [在线阅读](https://moralis.apachecn.org)
+* [在线阅读](https://moralis.flygon.net)
 ## 下载
 
 ### Docker
